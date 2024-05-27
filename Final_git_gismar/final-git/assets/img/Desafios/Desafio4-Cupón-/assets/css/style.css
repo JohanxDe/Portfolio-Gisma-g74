@@ -1,0 +1,65 @@
+body {
+	font-family: 'Roboto', sans-serif;
+  }
+  
+  .navbar-brand img {
+	width: 82px;
+  }
+  
+  .custom-navbar,
+  .custom-footer {
+	background-color: #28a745;
+  }
+  
+  .card {
+	margin: 0 auto;
+  }
+  
+  .text-secondary {
+	font-weight: 300;
+	color: #707070;
+	margin: 0;
+  }
+  
+  .text-secondary-2 {
+	font-size: 13px;
+	color: #707070;
+	font-weight: 300;
+  }
+  
+  .text-success {
+	font-size: 20px;
+	font-weight: 300;
+  }
+  
+  .precios {
+	text-align: right;
+  }
+  
+  hr {
+	margin-top: 0;
+	margin-bottom: 0;
+  }
+  
+  footer {
+	text-align: center;
+  }
+  
+  footer img {
+	width: 82px;
+	padding-top: 30px;
+  }
+  
+  footer p {
+	color: #707070;
+	font-weight: 300;
+	text-align: center;
+  }
+  
+  .form-group {
+	margin-bottom: 20px;
+  }
+  
+  .form-control {
+	margin-bottom: 10px;
+  }
